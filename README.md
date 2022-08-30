@@ -16,7 +16,7 @@ This experimental kit provides you the facility to check and verify your IOT pro
 * +5V DC and Stepper Motor Interfacing.
 * ADC,DAC,IR Sensor,LM35 interfacing.
 * 8 Bit LED-SWITCH Logic.
-16*2 LCD,4*4 Matrix Keyboard Interfacing.
+16x2 LCD, 4x4 Matrix Keyboard Interfacing.
 
 this simulations and Interfacing are available for both ie.Raspberry Pi and Arduino.
 
