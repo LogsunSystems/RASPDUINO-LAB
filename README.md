@@ -8,7 +8,7 @@ This experimental kit provides you the facility to check and verify your IOT pro
 
 * IOT systems have applications across industries through their unique flexibility and ability to be suitable in any environment. They enhance data collection, automation, operations, and much more through smart devices and powerful enabling technology.
 
-**SPECIFICATIONS OF BOARD**
+**ON BOARD INTERFACING**
 
 * on Board Lift elevator simulation.
 * Trafic Light Simulation
@@ -19,6 +19,12 @@ This experimental kit provides you the facility to check and verify your IOT pro
 16x2 LCD, 4x4 Matrix Keyboard Interfacing.
 
 this simulations and Interfacing are available for both ie.Raspberry Pi and Arduino.
+
+**SOFTWARES**
+you can use following google drive link for required softwares 
+
+# [CH340 drivers and Arduino1.8.5](https://drive.google.com/file/d/17AKoKvmOfb26LWJAPuifU5B-RI3DSGVX/view?usp=sharing)
+# [download latest version of Arduino from here](https://www.arduino.cc/en/software)
 
 
 
