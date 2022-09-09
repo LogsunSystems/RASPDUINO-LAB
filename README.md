@@ -8,6 +8,8 @@ This experimental kit provides you the facility to check and verify your IOT pro
 
 * IOT systems have applications across industries through their unique flexibility and ability to be suitable in any environment. They enhance data collection, automation, operations, and much more through smart devices and powerful enabling technology.
 
+![WhatsApp Image 2022-09-09 at 10 35 50](https://user-images.githubusercontent.com/108651919/189276726-8c7c9018-f039-48bc-802e-55a41ff55359.jpeg)
+
 **ON BOARD INTERFACING**
 
 * on Board Lift elevator simulation.
